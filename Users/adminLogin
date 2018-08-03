@@ -1,0 +1,10 @@
+// Login Class
+
+public class Login extends javax.swing.JFrame {
+
+    //create new login form
+    public Login () {
+        initComponents();
+    }
+
+}
